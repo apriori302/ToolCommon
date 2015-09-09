@@ -9,5 +9,7 @@ public class Main {
 	public static void showMessage(){
 		System.out.println("This Message 1");
 		System.out.println("This Message 2");
+		System.out.println("This Message 3");
+		System.out.println("This Message 4");
 	}
 }
